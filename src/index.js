@@ -1,5 +1,2 @@
-import "./module";
-console.log("work");
-import "./scss/index.scss"
+import './scss/index.scss';
 
-// Lessons14
